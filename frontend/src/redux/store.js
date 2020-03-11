@@ -42,6 +42,4 @@ const reducer = combineReducers({
     form: formReducer
 })
 
-
-
 export const store = createStore(reducer)
